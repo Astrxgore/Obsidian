@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "3cd87c07051a383b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bf4078604331673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f3992903f79ddec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cf5619934857662",
+    "type": "split",
+    "children": [
+      {
+        "id": "5699a42f284dc2b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff057fb0c1e30b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "984821b281980f35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "238db193b17708c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "695dcd39276f5b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c507a56d74d171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c81432b89539234b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Личное/passes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for passes"
+            }
+          },
+          {
+            "id": "9c60a24cb0494a54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Личное/passes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from passes"
+            }
+          },
+          {
+            "id": "ec5ab64ff0b6debd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e9d0de27b929c28",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6d24b15e6018dfe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Личное/passes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of passes"
+            }
+          },
+          {
+            "id": "4f35b7e2be2d24e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "888d3a1f9320a8a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 731.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9f3992903f79ddec",
+  "lastOpenFiles": [
+    "Test/Test.md",
+    "Untitled.md",
+    "Test",
+    "Productivity-OS/09_TEMPLATES/тест.md",
+    "Productivity-OS/07_PEOPLE/Alexandra/_Profile.md",
+    "Productivity-OS/03_PROJECTS/Active/Project A/_Overview.md",
+    "Productivity-OS/09_TEMPLATES/Project overview.md",
+    "Ссылки.md",
+    "Main backlog.md",
+    "Productivity-OS/99_ARCHIVE/Old/Table game (first term course)/Заброшенный Замок Междумирья.md",
+    "Личное/passes.md",
+    "Личное/Daily/2026-01-09.md",
+    "Личное/Daily/2025-12-11.md",
+    "Личное/Daily/2025-12-04.md",
+    "Личное/Daily/2025-11-30.md",
+    "Relationship-OS/01_DASHBOARD/Home.md",
+    "Productivity-OS/07_PEOPLE/Events/Trips",
+    "Productivity-OS/07_PEOPLE/Events/Random interactions",
+    "Productivity-OS/07_PEOPLE/Events/Holidays",
+    "Productivity-OS/07_PEOPLE/Events/Conflicts",
+    "Productivity-OS/07_PEOPLE/Events",
+    "Relationship-OS/01_DASHBOARD/Next.md",
+    "Relationship-OS/01_DASHBOARD/Calendar.md",
+    "Productivity-OS/09_TEMPLATES/Weekly review.md",
+    "Productivity-OS/99_ARCHIVE/Trash",
+    "Productivity-OS/99_ARCHIVE/Old",
+    "Productivity-OS/09_TEMPLATES/Gift idea.md",
+    "Productivity-OS/09_TEMPLATES/Place.md",
+    "Productivity-OS/09_TEMPLATES/Person profile.md",
+    "Productivity-OS/09_TEMPLATES/Call.md",
+    "Productivity-OS/09_TEMPLATES/Meeting.md",
+    "Productivity-OS/07_PEOPLE/Alexandra/_Plans.md",
+    "Productivity-OS/08_KNOWLEDGE/MOCs",
+    "Productivity-OS/08_KNOWLEDGE/Новая папка",
+    "Productivity-OS/07_PEOPLE/Known/Israilov Roman/_Rules.md",
+    "Productivity-OS/07_PEOPLE/Known/Israilov Roman/_Profile.md",
+    "Productivity-OS/Untitled.canvas",
+    "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095249.png",
+    "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095036.png",
+    "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120094933.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251012171329.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251012170313.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011224401.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011224437.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011214706.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011220348.png",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251012162827.png"
+  ]
+}
