@@ -11,22 +11,14 @@
             "id": "d9a196829003c085",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Main backlog.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Main backlog"
+              "icon": "lucide-file",
+              "title": "_Overview"
             }
           }
         ]
@@ -189,10 +181,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8a4babe9f3ce43af",
+  "active": "d9a196829003c085",
   "lastOpenFiles": [
     "Untitled.md",
-    "Untitled 1.md",
-    "Main backlog.md"
+    "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
+    "Productivity-OS/02_ACTION/kanban/Master.md",
+    "Untitled 1.md"
   ]
 }
