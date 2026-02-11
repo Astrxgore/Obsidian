@@ -15,8 +15,8 @@
               "state": {
                 "file": "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
                 "viewState": {
-                  "x": 7.99267578125,
-                  "y": 171.9266357421875,
+                  "x": 35.603562355041504,
+                  "y": 118.85842895507812,
                   "zoom": 0
                 }
               },
@@ -163,9 +163,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "cc1fe93868d8c004",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
