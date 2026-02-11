@@ -11,17 +11,14 @@
             "id": "d9a196829003c085",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
-                "viewState": {
-                  "x": 35.603562355041504,
-                  "y": 118.85842895507812,
-                  "zoom": 0
-                }
+                "file": "Productivity-OS/00_INBOX/Quick capture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Quick capture"
             }
           }
         ]
@@ -196,8 +193,9 @@
   },
   "active": "d9a196829003c085",
   "lastOpenFiles": [
-    "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
+    "Productivity-OS/00_INBOX/_Readme.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
+    "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
     "Untitled.md",
     "Productivity-OS/02_ACTION/kanban/Master.md",
     "Untitled 1.md"
