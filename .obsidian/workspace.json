@@ -11,10 +11,14 @@
             "id": "9f3992903f79ddec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -207,6 +211,12 @@
   },
   "active": "9f3992903f79ddec",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
+    "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
+    "Productivity-OS/03_PROJECTS/Active/Home server/Tasks.md",
+    "Productivity-OS/03_PROJECTS/Active/Home server/Notes.md",
+    "Productivity-OS/03_PROJECTS/Active/Home server",
     "Productivity-OS-tree.md",
     "Untitled.md",
     "Test/Test.md",
@@ -237,12 +247,7 @@
     "Productivity-OS/09_TEMPLATES/Gift idea.md",
     "Productivity-OS/09_TEMPLATES/Place.md",
     "Productivity-OS/09_TEMPLATES/Person profile.md",
-    "Productivity-OS/09_TEMPLATES/Call.md",
-    "Productivity-OS/09_TEMPLATES/Meeting.md",
-    "Productivity-OS/07_PEOPLE/Alexandra/_Plans.md",
     "Productivity-OS/08_KNOWLEDGE/MOCs",
-    "Productivity-OS/08_KNOWLEDGE/Новая папка",
-    "Productivity-OS/07_PEOPLE/Known/Israilov Roman/_Rules.md",
     "Productivity-OS/Untitled.canvas",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095249.png",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095036.png",
