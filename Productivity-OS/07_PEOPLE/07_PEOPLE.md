@@ -1,0 +1,94 @@
+Rules:
+\_plans.md должен генерировать или содержать реальные task-файлы (иначе это мечты)
+\_Gifts.md — идеи подарков, а покупка/поздравление — задача
+
+%% Begin Waypoint %%
+- **Alexandra**
+	- [[Alexandra index]]
+	- [[Gifts]]
+	- [[Plans]]
+	- [[Profile]]
+	- [[Rules]]
+- **Family**
+	- **Alena Golikova**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Artem Sologub**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Dmitrii Golikov**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Georgii Golikov**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Tatiana Golikova**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+- **Friends**
+	- **Artem Kopylov**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Dmitrii Vlasiuk**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Timofei Pilipenko**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+- **Known**
+	- **Israilov Roman**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Konstantin Kemaev**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Mokrousov Vladimir**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Novoselov Mikhail**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+	- **Sultiev Roman**
+		- [[Gifts]]
+		- [[Index]]
+		- [[Plans]]
+		- [[Profile]]
+		- [[Rules]]
+
+%% End Waypoint %%

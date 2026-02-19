@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/01_DASHBOARD/01_DASHBOARD.md",
+                "file": "Productivity-OS/08_KNOWLEDGE/08_KNOWLEDGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_DASHBOARD"
+              "title": "08_KNOWLEDGE"
+            }
+          },
+          {
+            "id": "bed3131f17e0882d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,38 +221,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c00f9c49c4123167",
+  "active": "bed3131f17e0882d",
   "lastOpenFiles": [
-    "Productivity-OS/02_ACTION/02_ACTION.md",
-    "Productivity-OS/01_DASHBOARD/_01_DASHBOARD.md",
-    "Productivity-OS/01_DASHBOARD/01_DASHBOARD.md",
-    "Productivity-OS/00_INBOX/00_INBOX.md",
-    "Productivity-OS/00_INBOX/Quick capture.md",
-    "Productivity-OS/07_PEOPLE/_07_PEOPLE.md",
-    "Productivity-OS/06_RESOURCES/_06_RESOURCES.md",
-    "Productivity-OS/07_PEOPLE/_People index.md",
-    "Productivity-OS/07_PEOPLE/_ReadMe.md",
-    "Productivity-OS/05_LOGS/_05_LOGS.md",
-    "Productivity-OS/04_AREAS/_04_AREAS.md",
-    "Productivity-OS/02_ACTION/_02_ACTION.md",
-    "Productivity-OS/03_PROJECTS/_03_PROJECTS.md",
+    "Productivity-OS/08_KNOWLEDGE/08_KNOWLEDGE.md",
+    "Productivity-OS/07_PEOPLE/Family/Georgii Golikov/Index.md",
+    "Productivity-OS/07_PEOPLE/07_PEOPLE.md",
+    "Productivity-OS/07_PEOPLE/Alexandra/Alexandra index.md",
+    "Productivity-OS/99_ARCHIVE/99_ARCHIVE.md",
+    "Productivity-OS/07_PEOPLE/Family/Artem Sologub/Profile.md",
+    "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Rules.md",
+    "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Index.md",
+    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Rules.md",
+    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Profile.md",
+    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Plans.md",
+    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Index.md",
+    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Gifts.md",
+    "Productivity-OS/07_PEOPLE/Known/Novoselov Mikhail/Rules.md",
+    "Productivity-OS/07_PEOPLE/Known/Novoselov Mikhail/Profile.md",
+    "Productivity-OS/07_PEOPLE/Known/Novoselov Mikhail/Plans.md",
+    "Productivity-OS/07_PEOPLE/Known/Novoselov Mikhail/Index.md",
+    "Productivity-OS/07_PEOPLE/Known/Novoselov Mikhail/Gifts.md",
+    "Productivity-OS/07_PEOPLE/Known/Mokrousov Vladimir/Rules.md",
+    "Productivity-OS/07_PEOPLE/Known/Mokrousov Vladimir/Profile.md",
+    "Productivity-OS/07_PEOPLE/Known/Mokrousov Vladimir/Plans.md",
+    "Productivity-OS/07_PEOPLE/Known/Mokrousov Vladimir/Index.md",
+    "Productivity-OS/07_PEOPLE/Known/Mokrousov Vladimir/Gifts.md",
+    "Productivity-OS/07_PEOPLE/Known/Konstantin Kemaev/Rules.md",
+    "Productivity-OS/07_PEOPLE/Known/Konstantin Kemaev/Profile.md",
+    "Productivity-OS/07_PEOPLE/Known/Konstantin Kemaev/Plans.md",
     "Untitled.canvas",
     "Productivity-OS/03_PROJECTS/Untitled",
-    "Productivity-OS/04_AREAS/Relationships/Standards.md",
-    "Productivity-OS/04_AREAS/Relationships/Rituals.md",
-    "Productivity-OS/04_AREAS/Relationships/_Area overview.md",
-    "Productivity-OS/04_AREAS/Study/_Overview.md",
     "Productivity-OS/04_AREAS/Study/Tasks",
-    "Productivity-OS/06_RESOURCES/Places/_Places index.md",
-    "Productivity-OS/06_RESOURCES/Gifts/_No-go list.md",
-    "Productivity-OS/06_RESOURCES/Gifts/_Gift ideas.md",
-    "Productivity-OS/02_ACTION/Tasks/_Task index.md",
-    "Productivity-OS/05_LOGS/Daily/2026-02-19.md",
-    "Productivity-OS/02_ACTION/Waiting/Waiting for.md",
-    "Productivity-OS/02_ACTION/Checklists/Weekly routine.md",
-    "Productivity-OS/02_ACTION/Tasks/Untitled.md",
     "Productivity-OS/02_ACTION/Tasks/Untitled",
-    "Productivity-OS/02_ACTION/Checklists/Daily routine.md",
     "Pasted image 20260219154911.png",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/hh.py",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/export_tree.py",

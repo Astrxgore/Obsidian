@@ -13,3 +13,14 @@
 - [[07-Review]] — скрипт weekly review (чеклист + автосписки)
 
 Идея: **всё в dashboard должно обновляться автоматически из task-файлов/проектов/логов...**
+
+%% Begin Waypoint %%
+- [[01-Home]]
+- [[02-Today]]
+- [[03-Week]]
+- [[04-Projects]]
+- [[05-Areas]]
+- [[06-People]]
+- [[07-Review]]
+
+%% End Waypoint %%
