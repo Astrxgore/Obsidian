@@ -17,7 +17,7 @@ sortByAsc: true
 showEmptyFolders: false
 onlyIncludeSubfolders: false
 storeFolderCondition: true
-showFolderNotes: false
+showFolderNotes: true
 disableCollapseIcon: true
 alwaysCollapse: false
 autoSync: true
@@ -32,6 +32,7 @@ useWikilinks: true
 ```
 <span class="fv-link-list-start" id="26de737c-649a-4c8f-8b02-738367d0f63c"></span>
 - Alexandra <span class="fv-link-list-item"></span>
+	- [[Productivity-OS/07_PEOPLE/Alexandra/Alexandra.md|Alexandra]] <span class="fv-link-list-item"></span>
 	- [[Productivity-OS/07_PEOPLE/Alexandra/Alexandra index.md|Alexandra index]] <span class="fv-link-list-item"></span>
 	- [[Productivity-OS/07_PEOPLE/Alexandra/Gifts.md|Gifts]] <span class="fv-link-list-item"></span>
 	- [[Productivity-OS/07_PEOPLE/Alexandra/Plans.md|Plans]] <span class="fv-link-list-item"></span>
@@ -39,12 +40,14 @@ useWikilinks: true
 	- [[Productivity-OS/07_PEOPLE/Alexandra/Rules.md|Rules]] <span class="fv-link-list-item"></span>
 - Family <span class="fv-link-list-item"></span>
 	- Alena Golikova <span class="fv-link-list-item"></span>
+		- [[Productivity-OS/07_PEOPLE/Family/Alena Golikova/Alena Golikova.md|Alena Golikova]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Alena Golikova/Gifts.md|Gifts]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Alena Golikova/Index.md|Index]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Alena Golikova/Plans.md|Plans]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Alena Golikova/Profile.md|Profile]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Alena Golikova/Rules.md|Rules]] <span class="fv-link-list-item"></span>
 	- Artem Sologub <span class="fv-link-list-item"></span>
+		- [[Productivity-OS/07_PEOPLE/Family/Artem Sologub/Artem Sologub.md|Artem Sologub]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Artem Sologub/Gifts.md|Gifts]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Artem Sologub/Index.md|Index]] <span class="fv-link-list-item"></span>
 		- [[Productivity-OS/07_PEOPLE/Family/Artem Sologub/Plans.md|Plans]] <span class="fv-link-list-item"></span>
