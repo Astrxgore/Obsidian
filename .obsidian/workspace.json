@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/09_TEMPLATES/Task.md",
+                "file": "Productivity-OS/09_TEMPLATES/Project.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Task"
+              "title": "Project"
             }
           }
         ]
@@ -212,14 +212,15 @@
   },
   "active": "2d4cb4837541480d",
   "lastOpenFiles": [
+    "Productivity-OS/09_TEMPLATES/Task.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Ссылки.md",
     "Productivity-OS/09_TEMPLATES/Project.md",
     "Productivity-OS/03_PROJECTS/03_PROJECTS.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Ссылки.md",
     "Pasted image 20260219154911.png",
     "Productivity-OS-tree.md",
-    "Productivity-OS/09_TEMPLATES/Task.md",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Gift idea.md",
     "Productivity-OS/07_PEOPLE/07_PEOPLE.md",
@@ -238,8 +239,6 @@
     "Productivity-OS/99_ARCHIVE/99_ARCHIVE.md",
     "Productivity-OS/07_PEOPLE/Family/Artem Sologub/Profile.md",
     "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Rules.md",
-    "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Index.md",
-    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Rules.md",
     "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/04_AREAS/Study/Tasks",
     "Productivity-OS/02_ACTION/Tasks/Untitled",
