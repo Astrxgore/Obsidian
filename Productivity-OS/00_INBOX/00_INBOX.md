@@ -7,3 +7,9 @@
 - Контакты
 - Всё остальное
 Inbox должен пустеть раз в один-два дня
+
+%% Begin Waypoint %%
+- [[Quick capture]]
+
+%% End Waypoint %%
+

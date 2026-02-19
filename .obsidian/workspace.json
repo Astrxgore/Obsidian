@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eab5fca62dc7fac4",
+        "id": "497db3832a50d90a",
         "type": "tabs",
         "children": [
           {
-            "id": "f31fe3d855d26d21",
+            "id": "c00f9c49c4123167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/01_DASHBOARD/_01_DASHBOARD.md",
+                "file": "Productivity-OS/01_DASHBOARD/01_DASHBOARD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_01_DASHBOARD"
+              "title": "01_DASHBOARD"
             }
           }
         ]
@@ -210,9 +210,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f31fe3d855d26d21",
+  "active": "c00f9c49c4123167",
   "lastOpenFiles": [
-    "Productivity-OS/00_INBOX/_00_INBOX.md",
+    "Productivity-OS/02_ACTION/02_ACTION.md",
+    "Productivity-OS/01_DASHBOARD/_01_DASHBOARD.md",
+    "Productivity-OS/01_DASHBOARD/01_DASHBOARD.md",
+    "Productivity-OS/00_INBOX/00_INBOX.md",
+    "Productivity-OS/00_INBOX/Quick capture.md",
+    "Productivity-OS/07_PEOPLE/_07_PEOPLE.md",
+    "Productivity-OS/06_RESOURCES/_06_RESOURCES.md",
+    "Productivity-OS/07_PEOPLE/_People index.md",
+    "Productivity-OS/07_PEOPLE/_ReadMe.md",
+    "Productivity-OS/05_LOGS/_05_LOGS.md",
+    "Productivity-OS/04_AREAS/_04_AREAS.md",
+    "Productivity-OS/02_ACTION/_02_ACTION.md",
     "Productivity-OS/03_PROJECTS/_03_PROJECTS.md",
     "Untitled.canvas",
     "Productivity-OS/03_PROJECTS/Untitled",
@@ -221,7 +232,6 @@
     "Productivity-OS/04_AREAS/Relationships/_Area overview.md",
     "Productivity-OS/04_AREAS/Study/_Overview.md",
     "Productivity-OS/04_AREAS/Study/Tasks",
-    "Productivity-OS/07_PEOPLE/_ReadMe.md",
     "Productivity-OS/06_RESOURCES/Places/_Places index.md",
     "Productivity-OS/06_RESOURCES/Gifts/_No-go list.md",
     "Productivity-OS/06_RESOURCES/Gifts/_Gift ideas.md",
@@ -232,23 +242,14 @@
     "Productivity-OS/02_ACTION/Tasks/Untitled.md",
     "Productivity-OS/02_ACTION/Tasks/Untitled",
     "Productivity-OS/02_ACTION/Checklists/Daily routine.md",
-    "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/_ReadMe.md",
     "Pasted image 20260219154911.png",
-    "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/structure.md",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/hh.py",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/export_tree.py",
-    "Productivity-OS/02_ACTION/Checklists/Daily/Routine.md",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/FileTreeToMD.py",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/automation",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts",
-    "Productivity-OS/01_DASHBOARD/_01_DASHBOARD.md",
-    "Productivity-OS/01_DASHBOARD/01-Home.md",
-    "Productivity-OS/09_TEMPLATES/Task.md",
-    "Productivity-OS/07_PEOPLE/Alexandra/_Alexandra index.md",
-    "Alexandra.md",
-    "Productivity-OS/01_DASHBOARD/03-Week.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
     "Productivity-OS/Untitled.canvas",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095249.png",
