@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/_ReadMe.md",
+                "file": "Productivity-OS/02_ACTION/Tasks/_Task index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_ReadMe"
+              "title": "_Task index"
             }
           }
         ]
@@ -212,11 +212,17 @@
   },
   "active": "f31fe3d855d26d21",
   "lastOpenFiles": [
+    "Productivity-OS/02_ACTION/Waiting/Waiting for.md",
+    "Productivity-OS/02_ACTION/Checklists/Weekly routine.md",
+    "Productivity-OS/02_ACTION/Tasks/Untitled.md",
+    "Productivity-OS/02_ACTION/Tasks/Untitled",
+    "Productivity-OS/02_ACTION/Checklists/Daily routine.md",
+    "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/_ReadMe.md",
+    "Pasted image 20260219154911.png",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/structure.md",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/hh.py",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/export_tree.py",
     "Productivity-OS/02_ACTION/Checklists/Daily/Routine.md",
-    "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/_ReadMe.md",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree/FileTreeToMD.py",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call/File-tree",
     "Productivity-OS/08_KNOWLEDGE/Systems/Scripts/on-call",
@@ -240,14 +246,9 @@
     "Productivity-OS/09_TEMPLATES/Project.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Study/_Overview.md",
-    "Productivity-OS/03_PROJECTS/Active/Home server/Tasks",
     "Productivity-OS/03_PROJECTS/Active/Study/Tasks.md",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Person.md",
-    "Productivity-OS/09_TEMPLATES/Person profile.md",
-    "Productivity-OS/09_TEMPLATES/Call.md",
-    "Productivity-OS/09_TEMPLATES/Gift idea.md",
-    "Productivity-OS/09_TEMPLATES/Meeting.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
     "Productivity-OS/Untitled.canvas",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095249.png",
@@ -258,7 +259,6 @@
     "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011224401.png",
     "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011224437.png",
     "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011214706.png",
-    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011220348.png",
-    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251012162827.png"
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/first computer paractice/Pasted image 20251011220348.png"
   ]
 }

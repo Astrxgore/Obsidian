@@ -1,6 +1,6 @@
 To run in windows cmd:
 ```powershell
-python export_tree.py "C:\Users\Astrxgore\Desktop\Obsidian" -o structure.md
+python export_tree.py C:\Users\Astrxgore\Desktop\Obsidian\Productivity-OS\ -o structure.md
 ```
 
 to run in linux bash:
