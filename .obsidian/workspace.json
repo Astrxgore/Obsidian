@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/01_DASHBOARD/_Readme.md",
+                "file": "Productivity-OS-tree.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_Readme"
+              "title": "Productivity-OS-tree"
             }
           },
           {
@@ -221,8 +221,12 @@
   },
   "active": "b6131cdaaabd72a1",
   "lastOpenFiles": [
-    "Productivity-OS/01_DASHBOARD/03-week.md",
+    "Productivity-OS/04_AREAS/Relationships/Standards.md",
+    "Productivity-OS/09_TEMPLATES/тест.md",
+    "Productivity-OS/04_AREAS/Relationships/Rituals.md",
+    "Productivity-OS/04_AREAS/Relationships/_Area overview.md",
     "Productivity-OS/01_DASHBOARD/_Readme.md",
+    "Productivity-OS/01_DASHBOARD/03-week.md",
     "Productivity-OS/01_DASHBOARD/01-Home.md",
     "Productivity-OS/00_INBOX/_Readme.md",
     "Productivity-OS/00_INBOX/Quick capture.md",
@@ -236,7 +240,6 @@
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Person.md",
     "Productivity-OS/09_TEMPLATES/Person profile.md",
-    "Productivity-OS/09_TEMPLATES/тест.md",
     "Productivity-OS/09_TEMPLATES/Call.md",
     "Productivity-OS/09_TEMPLATES/Gift idea.md",
     "Productivity-OS/09_TEMPLATES/Meeting.md",
@@ -247,10 +250,7 @@
     "Productivity-OS/02_ACTION/Tasks/_Task index.md",
     "Productivity-OS/02_ACTION/Tasks/Single actions.md",
     "Project A.md",
-    "Личное/passes.md",
-    "conflict-files-obsidian-git.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
-    "Productivity-OS/03_PROJECTS/Active/Home server/Tasks.md",
     "Productivity-OS/03_PROJECTS/Active/Home server",
     "Test",
     "Productivity-OS/07_PEOPLE/Events/Trips",
