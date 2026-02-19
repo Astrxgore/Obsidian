@@ -11,17 +11,22 @@
             "id": "2d4cb4837541480d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 374,
-                  "y": 228,
-                  "zoom": 0
+                "file": "Productivity-OS/02_ACTION/kanban/Master.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-trello",
+              "title": "Master"
             }
           }
         ]
@@ -215,6 +220,10 @@
   },
   "active": "2d4cb4837541480d",
   "lastOpenFiles": [
+    "Productivity-OS/02_ACTION/Checklists/Daily routine.md",
+    "Productivity-OS/02_ACTION/Checklists/Weekly routine.md",
+    "Scheme.canvas",
+    "Productivity-OS/05_LOGS/05_LOGS.md",
     "Личное/passes.md",
     "Заготовки/all links to dailics.md",
     "Заготовки/DailyNoteTemplate.md",
@@ -222,7 +231,6 @@
     "Заготовки/theme.md",
     "Учебные дисциплины/Алгебраическая геометрия/Ссылки Алгем.md",
     "Ссылки.md",
-    "Untitled.canvas",
     "Учебные дисциплины/nand/NAnd ссылки.md",
     "Учебные дисциплины/git/Git ссылки.md",
     "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/second computer practice/second computer practice.md",
@@ -240,9 +248,6 @@
     "Productivity-OS-tree.md",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Gift idea.md",
-    "Productivity-OS/09_TEMPLATES/09_TEMPLATES.md",
-    "Productivity-OS/07_PEOPLE/Family/Artem Sologub/Artem Sologub.md",
-    "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Alena Golikova.md",
     "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/04_AREAS/Study/Tasks",
     "Productivity-OS/02_ACTION/Tasks/Untitled",
