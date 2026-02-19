@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/09_TEMPLATES/Project.md",
+                "file": "Productivity-OS/00_INBOX/_Readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Project"
+              "title": "_Readme"
             }
           },
           {
@@ -221,6 +221,8 @@
   },
   "active": "b6131cdaaabd72a1",
   "lastOpenFiles": [
+    "Productivity-OS/00_INBOX/Quick capture.md",
+    "Productivity-OS/09_TEMPLATES/Project.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Study/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Tasks",
@@ -230,7 +232,6 @@
     "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Person.md",
-    "Productivity-OS/09_TEMPLATES/Project.md",
     "Productivity-OS/09_TEMPLATES/Person profile.md",
     "Productivity-OS/09_TEMPLATES/тест.md",
     "Productivity-OS/09_TEMPLATES/Call.md",
