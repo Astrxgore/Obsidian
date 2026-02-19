@@ -1,5 +1,16 @@
 To run in windows cmd:
-> python export_tree.py "D:\Projects\MyFolder" -o structure.md
+```powershell
+python export_tree.py "C:\Users\Astrxgore\Desktop\Obsidian" -o structure.md
+```
 
 to run in linux bash:
-`python3 export_tree.py ~/projects/myfolder -o structure.md`
+```sh
+python3 export_tree.py ~/Рабочий\ Стол/Obsidian -o structure.md
+```
+
+Примеры флагов:
+```sh
+python export_tree.py . -o tree.md --max-depth 3
+python export_tree.py . -o tree.md --ignore-dir dist --ignore-dir build
+python export_tree.py . -o tree.md --ignore-file .env --ignore-file secrets.txt
+```
