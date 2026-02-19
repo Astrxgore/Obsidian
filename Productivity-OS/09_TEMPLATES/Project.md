@@ -1,7 +1,16 @@
 ---
 type: project
-state: active
-area: "[[Study]]"
-outcome:
-next_review: 2026-02-23
+status: active       # active | hold | done
+area:
+start:
+deadline:
 ---
+
+# Название проекта
+
+## Outcome
+Как выглядит завершённый проект?
+
+## Следующие шаги
+- [[Task 1]]
+

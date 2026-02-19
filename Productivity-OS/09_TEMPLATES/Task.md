@@ -1,9 +1,18 @@
 ---
 type: task
-status: next
-project: "[[Project A]]"
-area: "[[Study]]"
-person: "[[Alexandra index|_Alexandra index]]"
-due: 2026-02-20
-energy: low
+status: inbox         # inbox | next | waiting | done | someday
+project:              # имя проекта или пусто
+area:                 # если без проекта
+due:                  # 2026-02-20
+energy:               # low | medium | high
+created: <% moment().format() %>
+completed:
 ---
+
+# Название задачи
+
+## Контекст
+Краткое описание, если нужно.
+
+## Подзадачи (если есть)
+- [[NEXTTASK]]
