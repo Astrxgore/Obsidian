@@ -11,4 +11,3 @@
 				- [[structure]]
 
 %% End Waypoint %%
-[[Productivity-OS/07_PEOPLE/Family/Dmitrii Golikov/Index|Index]]
