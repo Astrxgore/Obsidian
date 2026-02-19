@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/09_TEMPLATES/Project.md",
+                "file": "Productivity-OS/09_TEMPLATES/Task.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Project"
+              "title": "Task"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "2d4cb4837541480d",
   "lastOpenFiles": [
-    "Productivity-OS/03_PROJECTS/03_PROJECTS.md",
     "Productivity-OS/09_TEMPLATES/Project.md",
+    "Productivity-OS/03_PROJECTS/03_PROJECTS.md",
     "Untitled.md",
     "Untitled.canvas",
     "Ссылки.md",
