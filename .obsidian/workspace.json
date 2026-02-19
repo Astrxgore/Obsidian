@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/00_INBOX/_Readme.md",
+                "file": "Productivity-OS/01_DASHBOARD/_Readme.md",
                 "mode": "source",
                 "source": true
               },
@@ -221,13 +221,16 @@
   },
   "active": "b6131cdaaabd72a1",
   "lastOpenFiles": [
+    "Productivity-OS/01_DASHBOARD/03-week.md",
+    "Productivity-OS/01_DASHBOARD/_Readme.md",
+    "Productivity-OS/01_DASHBOARD/01-Home.md",
+    "Productivity-OS/00_INBOX/_Readme.md",
     "Productivity-OS/00_INBOX/Quick capture.md",
     "Productivity-OS/09_TEMPLATES/Project.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Study/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Tasks",
     "Productivity-OS/03_PROJECTS/Active/Study/Tasks.md",
-    "Productivity-OS/00_INBOX/_Readme.md",
     "Productivity-OS/03_PROJECTS/Active/Study",
     "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
@@ -248,10 +251,7 @@
     "conflict-files-obsidian-git.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
     "Productivity-OS/03_PROJECTS/Active/Home server/Tasks.md",
-    "Productivity-OS/03_PROJECTS/Active/Home server/Notes.md",
     "Productivity-OS/03_PROJECTS/Active/Home server",
-    "Productivity-OS-tree.md",
-    "Untitled.md",
     "Test",
     "Productivity-OS/07_PEOPLE/Events/Trips",
     "Productivity-OS/07_PEOPLE/Events/Random interactions",
