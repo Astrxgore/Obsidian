@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"050d759ef53370b8","type":"text","text":"Сначала быстрый захват в [[Quick capture]]","x":-200,"y":20,"width":250,"height":60},
-		{"id":"bf412132d5e6a4fd","type":"text","text":"Перекладывание задачи в:\n[[_Area overview]]/[[03/","x":-200,"y":140,"width":250,"height":50}
+		{"id":"bf412132d5e6a4fd","type":"text","text":"Перекладывание задачи в:\n[[_Area overview]]/[[03_PROJECTS]]/","x":-200,"y":140,"width":460,"height":120}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d7d98057f3f64488","fromNode":"050d759ef53370b8","fromSide":"bottom","toNode":"bf412132d5e6a4fd","toSide":"top"}
+	]
 }

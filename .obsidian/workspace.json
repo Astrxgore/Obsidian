@@ -11,14 +11,17 @@
             "id": "2d4cb4837541480d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Productivity-OS/09_TEMPLATES/Daily routine.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 374,
+                  "y": 228,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Daily routine"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -212,34 +215,34 @@
   },
   "active": "2d4cb4837541480d",
   "lastOpenFiles": [
-    "Daily routine.md",
+    "Личное/passes.md",
+    "Заготовки/all links to dailics.md",
+    "Заготовки/DailyNoteTemplate.md",
+    "Заготовки/taskTemplate.md",
+    "Заготовки/theme.md",
+    "Учебные дисциплины/Алгебраическая геометрия/Ссылки Алгем.md",
+    "Ссылки.md",
+    "Untitled.canvas",
+    "Учебные дисциплины/nand/NAnd ссылки.md",
+    "Учебные дисциплины/git/Git ссылки.md",
+    "Учебные дисциплины/Алгебраическая геометрия/Компьютерные практики/second computer practice/second computer practice.md",
+    "Productivity-OS/07_PEOPLE/07_PEOPLE.md",
+    "Productivity-OS/06_RESOURCES/06_RESOURCES.md",
+    "Productivity-OS/08_KNOWLEDGE/08_KNOWLEDGE.md",
     "Productivity-OS/09_TEMPLATES/Daily routine.md",
+    "Daily routine.md",
     "Productivity-OS/09_TEMPLATES/Project.md",
     "Untitled.md",
     "Productivity-OS/09_TEMPLATES/Task.md",
-    "Untitled.canvas",
     "Untitled 1.md",
-    "Ссылки.md",
     "Productivity-OS/03_PROJECTS/03_PROJECTS.md",
     "Pasted image 20260219154911.png",
     "Productivity-OS-tree.md",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Gift idea.md",
-    "Productivity-OS/07_PEOPLE/07_PEOPLE.md",
     "Productivity-OS/09_TEMPLATES/09_TEMPLATES.md",
     "Productivity-OS/07_PEOPLE/Family/Artem Sologub/Artem Sologub.md",
     "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Alena Golikova.md",
-    "Productivity-OS/07_PEOPLE/Alexandra/Alexandra.md",
-    "Productivity-OS/07_PEOPLE/Family/Alena Golikova/Gifts.md",
-    "Productivity-OS/07_PEOPLE/Alexandra/Gifts.md",
-    "Productivity-OS/07_PEOPLE/Known/Sultiev Roman/Gifts.md",
-    "Productivity-OS/08_KNOWLEDGE/08_KNOWLEDGE.md",
-    "Productivity-OS/07_PEOPLE/_about_.md",
-    "Productivity-OS/07_PEOPLE/Family/Dmitrii Golikov/Index.md",
-    "Productivity-OS/07_PEOPLE/Family/Georgii Golikov/Index.md",
-    "Productivity-OS/07_PEOPLE/Alexandra/Alexandra index.md",
-    "Productivity-OS/99_ARCHIVE/99_ARCHIVE.md",
-    "Productivity-OS/07_PEOPLE/Family/Artem Sologub/Profile.md",
     "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/04_AREAS/Study/Tasks",
     "Productivity-OS/02_ACTION/Tasks/Untitled",

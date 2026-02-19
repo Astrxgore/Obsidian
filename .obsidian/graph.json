@@ -8,10 +8,80 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:Productivity-OS/00_INBOX  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Productivity-OS/01_DASHBOARD  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Productivity-OS/02_ACTION  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Productivity-OS/03_PROJECTS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Productivity-OS/04_AREAS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Productivity-OS/05_LOGS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Productivity-OS/06_RESOURCES  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
       "query": "path:Productivity-OS/07_PEOPLE  ",
       "color": {
         "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Productivity-OS/08_KNOWLEDGE  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Productivity-OS/09_TEMPLATES  ",
+      "color": {
+        "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Productivity-OS/99_ARCHIVE  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920131214925163,
+  "scale": 0.4025207542347927,
   "close": false
 }
