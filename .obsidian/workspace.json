@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Личное/passes.md",
-                "mode": "source",
-                "source": false
+                "file": "Productivity-OS/09_TEMPLATES/Task.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "passes"
+              "title": "Task"
             }
           }
         ]
@@ -211,6 +211,17 @@
   },
   "active": "09c7d15c3437d415",
   "lastOpenFiles": [
+    "Project A.md",
+    "Productivity-OS/09_TEMPLATES/Task.md",
+    "Productivity-OS/09_TEMPLATES/Weekly review.md",
+    "Productivity-OS/09_TEMPLATES/Project overview.md",
+    "Productivity-OS/09_TEMPLATES/Place.md",
+    "Productivity-OS/09_TEMPLATES/Person profile.md",
+    "Productivity-OS/09_TEMPLATES/Meeting.md",
+    "Productivity-OS/09_TEMPLATES/Gift idea.md",
+    "Productivity-OS/09_TEMPLATES/Call.md",
+    "Productivity-OS/09_TEMPLATES/тест.md",
+    "Личное/passes.md",
     "conflict-files-obsidian-git.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
@@ -221,32 +232,21 @@
     "Untitled.md",
     "Test/Test.md",
     "Test",
-    "Productivity-OS/09_TEMPLATES/тест.md",
     "Productivity-OS/07_PEOPLE/Alexandra/_Profile.md",
     "Productivity-OS/03_PROJECTS/Active/Project A/_Overview.md",
-    "Productivity-OS/09_TEMPLATES/Project overview.md",
     "Ссылки.md",
     "Main backlog.md",
     "Productivity-OS/99_ARCHIVE/Old/Table game (first term course)/Заброшенный Замок Междумирья.md",
-    "Личное/passes.md",
     "Личное/Daily/2026-01-09.md",
     "Личное/Daily/2025-12-11.md",
     "Личное/Daily/2025-12-04.md",
-    "Личное/Daily/2025-11-30.md",
-    "Relationship-OS/01_DASHBOARD/Home.md",
     "Productivity-OS/07_PEOPLE/Events/Trips",
     "Productivity-OS/07_PEOPLE/Events/Random interactions",
     "Productivity-OS/07_PEOPLE/Events/Holidays",
     "Productivity-OS/07_PEOPLE/Events/Conflicts",
     "Productivity-OS/07_PEOPLE/Events",
-    "Relationship-OS/01_DASHBOARD/Next.md",
-    "Relationship-OS/01_DASHBOARD/Calendar.md",
-    "Productivity-OS/09_TEMPLATES/Weekly review.md",
     "Productivity-OS/99_ARCHIVE/Trash",
     "Productivity-OS/99_ARCHIVE/Old",
-    "Productivity-OS/09_TEMPLATES/Gift idea.md",
-    "Productivity-OS/09_TEMPLATES/Place.md",
-    "Productivity-OS/09_TEMPLATES/Person profile.md",
     "Productivity-OS/08_KNOWLEDGE/MOCs",
     "Productivity-OS/Untitled.canvas",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095249.png",
