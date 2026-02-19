@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity-OS/00_INBOX/_Readme.md",
+                "file": "Productivity-OS/09_TEMPLATES/Project.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "_Readme"
+              "title": "Project"
             }
           },
           {
@@ -221,6 +221,13 @@
   },
   "active": "b6131cdaaabd72a1",
   "lastOpenFiles": [
+    "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
+    "Productivity-OS/03_PROJECTS/Active/Study/_Overview.md",
+    "Productivity-OS/03_PROJECTS/Active/Home server/Tasks",
+    "Productivity-OS/03_PROJECTS/Active/Study/Tasks.md",
+    "Productivity-OS/00_INBOX/_Readme.md",
+    "Productivity-OS/03_PROJECTS/Active/Study",
+    "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
     "Productivity-OS/09_TEMPLATES/Person.md",
     "Productivity-OS/09_TEMPLATES/Project.md",
@@ -238,26 +245,18 @@
     "Project A.md",
     "Личное/passes.md",
     "conflict-files-obsidian-git.md",
-    "Productivity-OS/03_PROJECTS/Active/Home server/_Overview.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Untitled.canvas",
     "Productivity-OS/03_PROJECTS/Active/Home server/Tasks.md",
     "Productivity-OS/03_PROJECTS/Active/Home server/Notes.md",
     "Productivity-OS/03_PROJECTS/Active/Home server",
     "Productivity-OS-tree.md",
     "Untitled.md",
-    "Test/Test.md",
     "Test",
-    "Productivity-OS/07_PEOPLE/Alexandra/_Profile.md",
-    "Productivity-OS/03_PROJECTS/Active/Project A/_Overview.md",
-    "Ссылки.md",
     "Productivity-OS/07_PEOPLE/Events/Trips",
     "Productivity-OS/07_PEOPLE/Events/Random interactions",
     "Productivity-OS/07_PEOPLE/Events/Holidays",
     "Productivity-OS/07_PEOPLE/Events/Conflicts",
     "Productivity-OS/07_PEOPLE/Events",
-    "Productivity-OS/99_ARCHIVE/Trash",
-    "Productivity-OS/99_ARCHIVE/Old",
-    "Productivity-OS/08_KNOWLEDGE/MOCs",
     "Productivity-OS/Untitled.canvas",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095249.png",
     "Учебные дисциплины/Английский/вторые тысячи/Pasted image 20251120095036.png",
