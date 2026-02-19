@@ -11,22 +11,14 @@
             "id": "2d4cb4837541480d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Productivity-OS/02_ACTION/kanban/Master.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Productivity-OS/02_ACTION/kanban/Study.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-trello",
-              "title": "Master"
+              "icon": "lucide-file",
+              "title": "Study"
             }
           }
         ]
@@ -220,6 +212,8 @@
   },
   "active": "2d4cb4837541480d",
   "lastOpenFiles": [
+    "Productivity-OS/02_ACTION/kanban/Master.md",
+    "Productivity-OS/02_ACTION/kanban/Study.md",
     "Productivity-OS/02_ACTION/Checklists/Daily routine.md",
     "Productivity-OS/02_ACTION/Checklists/Weekly routine.md",
     "Scheme.canvas",
@@ -246,8 +240,6 @@
     "Productivity-OS/03_PROJECTS/03_PROJECTS.md",
     "Pasted image 20260219154911.png",
     "Productivity-OS-tree.md",
-    "Productivity-OS/09_TEMPLATES/Log (встреча, звонок, конфликт).md",
-    "Productivity-OS/09_TEMPLATES/Gift idea.md",
     "Productivity-OS/03_PROJECTS/Untitled",
     "Productivity-OS/04_AREAS/Study/Tasks",
     "Productivity-OS/02_ACTION/Tasks/Untitled",
