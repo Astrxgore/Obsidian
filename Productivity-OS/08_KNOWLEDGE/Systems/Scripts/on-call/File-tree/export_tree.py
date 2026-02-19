@@ -7,7 +7,7 @@ import argparse
 from pathlib import Path
 
 
-DEFAULT_IGNORE_DIRS = {".git", ".idea", ".vscode", "__pycache__", ".pytest_cache", "node_modules"}
+DEFAULT_IGNORE_DIRS = {".git", ".idea", ".vscode", "__pycache__", ".pytest_cache", "node_modules", ""}
 DEFAULT_IGNORE_FILES = {".DS_Store", "Thumbs.db"}
 
 
